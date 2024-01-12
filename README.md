@@ -13,7 +13,7 @@ Technical and management expertise in financial, trading systems, distributed an
 
 Well versed in design and implementation of large and complex projects particularly in Backend, cloud infrastructure and continuous integration/deployment.
 
-I'm an explorer of new tech, an quick learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
+I'm an explorer of new tech, an quick learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, reading blogs on Medium, going through some short Udemy course, fueling my curiosity.
 
 <br/>
 
