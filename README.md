@@ -76,6 +76,8 @@ I'm an explorer of new tech, an quick learner, and a problem-solver at heart. Wh
 - Postman, VirtualBox, Todoist
 - YouTube, Medium
 
+<br/>
+
 <!-- Overall stats -->
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=2900599" target="_blank" style="display: block; margin: 10px auto;">
@@ -85,6 +87,8 @@ I'm an explorer of new tech, an quick learner, and a problem-solver at heart. Wh
   </picture>
 </a>
 
+<br/><br/>
+
 <!-- Last 28 days -->
 
 <a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=2900599&activity_type=all" target="_blank" style="display: block; margin: 10px auto;">
@@ -93,6 +97,8 @@ I'm an explorer of new tech, an quick learner, and a problem-solver at heart. Wh
     <img alt="@lalatgithub's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=2900599&activity_type=all&image_size=auto&color_scheme=light" width="700" height="auto">
   </picture>
 </a>
+
+<br/><br/>
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
