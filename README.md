@@ -1,4 +1,4 @@
-### Hey there 👋, I'm [Lal!](https://github.com/lalatgithub/)
+### Hey there 👋, I'm [LaL!](https://github.com/lalatgithub/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iamlal)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@LaaL2.0)
