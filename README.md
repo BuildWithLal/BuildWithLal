@@ -1,9 +1,10 @@
 ### Hey there 👋, I'm [Lal!](https://github.com/lalatgithub/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iamlal)
-[![YouTube Badge](https://img.shields.io/badge/-Youtube-e4405f?style=flat-square&logo=Youtubeyou&logoColor=white)](https://youtube.com/@LaaL2.0)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-e4405f?style=flat-square&logo=Stackoverflow&logoColor=white)](https://stackoverflow.com/users/1750147/lal)
-[![Medium Badge](https://img.shields.io/badge/-Medium-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://medium.com/iamlal/)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@LaaL2.0)
+[![Stackoverflow Badge](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=flat-square)](https://stackoverflow.com/users/1750147/lal)
+[![Medium Badge](https://img.shields.io/badge/-Medium-e4405f?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/iamlal/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lalzadamohmand@gmail.com)
 
 
 A Software Engineer with 10 years of experience in software architecture, design & implementation for Web applications.
