@@ -79,6 +79,16 @@ I'm an explorer of new tech, an quick learner, and a problem-solver at heart. Wh
 
 <br/>
 
+#### 📗 Contact Me
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iamlal)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@LaaL2.0)
+[![Stackoverflow Badge](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=flat-square)](https://stackoverflow.com/users/1750147/lal)
+[![Medium Badge](https://img.shields.io/badge/-Medium-e4405f?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@iamlal/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lalzadamohmand@gmail.com)
+
+<br/>
+
 <!-- Overall stats -->
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=2900599" target="_blank" style="display: block; margin: 10px auto;">
