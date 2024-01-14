@@ -9,7 +9,7 @@
 
 A Software Engineer with 10 years of experience in software architecture, design & implementation for Web applications.
 
-Technical and management expertise in financial, trading systems, distributed and payment systems using Python, Javascript, GoLang, AWS, Docker, Kubernetes, GCP, Deployment processes and several related technologies.
+Technical and management expertise in financial, trading systems, distributed and payment systems using Python, Javascript, AWS, Docker, Kubernetes, OpenAI, GCP, Deployment processes and several related technologies.
 
 Well versed in design and implementation of large and complex projects particularly in Backend, cloud infrastructure and continuous integration/deployment.
 
