@@ -30,6 +30,7 @@ I'm an explorer of new tech, an quick learner, and a problem-solver at heart. Wh
 <code><img height="30" src="https://github.com/devicons/devicon/raw/master/icons/python/python-original-wordmark.svg" alt="python"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="django"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original-wordmark.svg" alt="fastapi"></code>
+<code><img height="30" src="https://freelogopng.com/images/all_img/1681142382OpenAI-png.png" alt="openai"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/raw/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" alt="sqlalchemy"></code>
