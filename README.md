@@ -89,7 +89,8 @@ I'm an explorer of new tech, an quick learner, and a problem-solver at heart. Wh
 
 <br/>
 
-<!-- Overall stats -->
+<!---
+Overall stats
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=2900599" target="_blank" style="display: block; margin: 10px auto;">
   <picture>
@@ -100,7 +101,7 @@ I'm an explorer of new tech, an quick learner, and a problem-solver at heart. Wh
 
 <br/><br/>
 
-<!-- Last 28 days -->
+Last 28 days 
 
 <a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=2900599&activity_type=all" target="_blank" style="display: block; margin: 10px auto;">
   <picture>
@@ -111,9 +112,7 @@ I'm an explorer of new tech, an quick learner, and a problem-solver at heart. Wh
 
 <br/><br/>
 
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
-<!-- contribution commits history -->
+contribution commits history
 
 <a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=2900599&period=all_times" target="_blank" style="display: block; margin: 10px auto;">
   <picture>
@@ -121,3 +120,4 @@ I'm an explorer of new tech, an quick learner, and a problem-solver at heart. Wh
     <img alt="Contribution Time Distribution of @lalatgithub" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=2900599&period=all_times&image_size=auto&color_scheme=light" width="700" height="auto">
   </picture>
 </a>
+--->
