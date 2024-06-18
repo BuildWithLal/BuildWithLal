@@ -9,7 +9,7 @@
 
 A Software Engineer with 10 years of experience in software architecture, design & implementation for Web applications.
 
-Technical and management expertise in financial, trading systems, distributed and payment systems using Python, Javascript, AWS, Docker, Kubernetes, OpenAI, GCP, Deployment processes and several related technologies.
+Technical and management expertise in financial, trading systems, distributed and payment systems using Python, Javascript, AWS, Docker, Kubernetes, Generative AI, GCP, Deployment processes and several related technologies.
 
 Well versed in design and implementation of large and complex projects particularly in Backend, cloud infrastructure and continuous integration/deployment.
 
@@ -19,7 +19,7 @@ I'm an explorer of new tech, an quick learner, and a problem-solver at heart. Wh
 
 #### 📗 Personal Stuff
 
-- 🛠 &nbsp; I’m currently working with Python, AWS, CI/CDs, Google Cloud, OpenAI etc.
+- 🛠 &nbsp; I’m currently working with Python, AWS, CI/CDs, Google Cloud, Generative AI etc.
 - 🚀 &nbsp; I’m currently exploring DevOps Certifications, Deep Dive into OpenAI and trying to build up my YouTube Channel.
 - 📫 &nbsp; Reach me out: lalzadamohmand@gmail.com.
 
