@@ -20,7 +20,7 @@ I'm an explorer of new tech, quick learner, and a problem-solver at heart. When 
 #### 📗 Personal Stuff
 
 - 🛠 &nbsp; I’m currently working with Python, AWS, CI/CDs, Google Cloud, Generative AI etc.
-- 🚀 &nbsp; I’m currently exploring DevOps Certifications, Deep Dive into OpenAI and trying to build up my YouTube Channel.
+- 🚀 &nbsp; I’m currently exploring DevOps Certifications, Deep Dive into Generative AI, LLMs, LangChain and trying to build up my YouTube Channel.
 - 📫 &nbsp; Reach me out: lalzadamohmand@gmail.com.
 
 <br/>
