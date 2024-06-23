@@ -9,7 +9,7 @@
 <img src="https://github.com/lalatgithub/lalatgithub/assets/2900599/7485b3f9-7752-4f9b-ab20-022092bb1b77" width="280">
 <img src="https://github.com/lalatgithub/lalatgithub/assets/2900599/41c46087-7469-41a9-9b50-0376e2eae079" width="240">
 <img src="https://github.com/lalatgithub/lalatgithub/assets/2900599/c0b75fdf-f635-4b4a-a55c-b1be7d94aef1" width="280">
-<img src="https://github.com/lalatgithub/lalatgithub/assets/2900599/c0b75fdf-f635-4b4a-a55c-b1be7d94aef1" width="280">
+<img src="https://github.com/lalatgithub/lalatgithub/assets/2900599/18160557-6f08-43ee-b3f8-ce1caf0a7d6c" width="280">
 
 
 <br/><br/>
