@@ -6,13 +6,7 @@
 [![Medium Badge](https://img.shields.io/badge/-Medium-e4405f?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@iamlal/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lalzadamohmand@gmail.com)
 
-<img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihYNHoJntPsxIdne8hdp4IkoFCG1WTvQ6zGisIFmv_3aLard28pwK_E7QtYsjcYtskbL6V9ZOqDAqzidEWZgADIKxuzUD66YSxw=w1751-h1251-rw-v1" width="280">
-
-<img src="https://github.com/lalatgithub/lalatgithub/assets/2900599/41c46087-7469-41a9-9b50-0376e2eae079" width="240">
-
-<img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpiha9sqXdEuIdhCVoDxLg-rS2lGytEuaXR4XsZ5-OiybkozZEFaXk_A1mxWLWzpBHpbR1HoJqtiZrmC_xJoqECbMbUhvfSbI0Q-Q=w2533-h1251-rw-v1" width="280">
-
-<img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihawN09kpbt9YG9yfoRRZFNZECYbPeSI-fczviSvRMQNDpprnGKXJuil1cm2K_CxsE2WSnBvwzKLTOi6wlOTHPFEmJU5EOUcVA=w1751-h1251-rw-v1" width="280">
+<img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihYNHoJntPsxIdne8hdp4IkoFCG1WTvQ6zGisIFmv_3aLard28pwK_E7QtYsjcYtskbL6V9ZOqDAqzidEWZgADIKxuzUD66YSxw=w1751-h1251-rw-v1" width="280"><img src="https://github.com/lalatgithub/lalatgithub/assets/2900599/41c46087-7469-41a9-9b50-0376e2eae079" width="240"><img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpiha9sqXdEuIdhCVoDxLg-rS2lGytEuaXR4XsZ5-OiybkozZEFaXk_A1mxWLWzpBHpbR1HoJqtiZrmC_xJoqECbMbUhvfSbI0Q-Q=w2533-h1251-rw-v1" width="280"><img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihawN09kpbt9YG9yfoRRZFNZECYbPeSI-fczviSvRMQNDpprnGKXJuil1cm2K_CxsE2WSnBvwzKLTOi6wlOTHPFEmJU5EOUcVA=w1751-h1251-rw-v1" width="280">
 
 <br/><br/>
 A Software Engineer with 10 years of experience in software architecture, design & implementation for Web applications.
