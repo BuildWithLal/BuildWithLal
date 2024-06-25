@@ -62,11 +62,11 @@ I'm an explorer of new tech, quick learner, and a problem-solver at heart. When 
 
 #### ✍️ Blog Posts & Talks :
 
+- <a href="https://medium.com/@iamlal/generative-ai-large-language-model-and-how-to-use-it-3a01d7abb77d">Generative AI, Large Language Model and How to use it</a>
 - <a href="https://medium.com/@iamlal/handling-i-o-bound-tasks-with-python-celery-using-processes-vs-threads-pool-126a4875600d">Handling I/O Bound Tasks with Python Celery using Processes vs Threads Pool</a>
 - <a href="https://medium.com/@iamlal/scale-up-messaging-queue-with-python-celery-processes-vs-threads-402533be269e">Scale up Messaging Queue with Python Celery (Processes vs Threads)</a>
 - <a href="https://medium.com/@iamlal/python-celery-vs-python-rq-for-distributed-tasks-processing-20041c346e6">Python Celery vs Python RQ for distributed tasks processing</a>
 - <a href="https://medium.com/@iamlal/terraform-in-a-nutshell-a599a7b5496e">Terraform in a nutshell</a>
-- <a href="https://www.youtube.com/watch?v=FaHdMUAQgck">Run Your Local GitLab Server in Docker Container</a>
 
 <br/>
 
