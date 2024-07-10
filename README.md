@@ -71,6 +71,7 @@ I'm an explorer of new tech, quick learner, and a problem-solver at heart. When 
 - <a href="https://medium.com/@iamlal/scale-up-messaging-queue-with-python-celery-processes-vs-threads-402533be269e">Scale up Messaging Queue with Python Celery (Processes vs Threads)</a>
 - <a href="https://medium.com/@iamlal/python-celery-vs-python-rq-for-distributed-tasks-processing-20041c346e6">Python Celery vs Python RQ for distributed tasks processing</a>
 - <a href="https://medium.com/@iamlal/terraform-in-a-nutshell-a599a7b5496e">Terraform in a nutshell</a>
+- <a href="https://www.youtube.com/playlist?list=PLJwCGAFWNNeGb9FIJ6VAkNWAPnj_NajgD">GitLab in Docker | YouTube Video Series</a>
 
 <br/>
 
