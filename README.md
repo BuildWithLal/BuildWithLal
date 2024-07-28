@@ -7,12 +7,7 @@
 [![Medium Badge](https://img.shields.io/badge/-Medium-e4405f?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@iamlal/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lalzadamohmand@gmail.com)
 
-
-
-<img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihYNHoJntPsxIdne8hdp4IkoFCG1WTvQ6zGisIFmv_3aLard28pwK_E7QtYsjcYtskbL6V9ZOqDAqzidEWZgADIKxuzUD66YSxw=w1751-h1251-rw-v1" width="280"><img src="https://github.com/lalatgithub/lalatgithub/assets/2900599/41c46087-7469-41a9-9b50-0376e2eae079" width="240"><img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpiha9sqXdEuIdhCVoDxLg-rS2lGytEuaXR4XsZ5-OiybkozZEFaXk_A1mxWLWzpBHpbR1HoJqtiZrmC_xJoqECbMbUhvfSbI0Q-Q=w2533-h1251-rw-v1" width="280"><img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihawN09kpbt9YG9yfoRRZFNZECYbPeSI-fczviSvRMQNDpprnGKXJuil1cm2K_CxsE2WSnBvwzKLTOi6wlOTHPFEmJU5EOUcVA=w1751-h1251-rw-v1" width="280"> <img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihbenyvEcVgh34U_bMNTLClICNwI-umukRhAHZp8uWHjxitfzN6vkpD-Hy67kb0yCMfNiC2INHKcYZb99kUT9FGzTWg9V2h6570=w2526-h1217-rw-v1" width="280">
-
-
-<br/><br/>
+<br/>
 A Software Engineer with 10 years of experience in software architecture, design & implementation for Web applications.
 
 Technical and management expertise in financial, trading systems, recruitment platforms and payment systems using Python, Javascript, AWS, Docker, Kubernetes, Generative AI, GCP and CI/CDs.
@@ -23,8 +18,8 @@ I'm an explorer of new tech, quick learner, and a problem-solver at heart. When 
 
 #### 📗 Personal Stuff
 
-- 🛠 &nbsp; I’m currently working with Python, AWS, CI/CDs, Google Cloud, Generative AI etc.
-- 🚀 &nbsp; I’m currently exploring DevOps Certifications, Deep Dive into Generative AI, LLMs, LangChain and trying to build up my YouTube Channel.
+- 🛠 &nbsp; I’m currently working with Python, AWS, CI/CDs, Google Cloud, Generative AI.
+- 🚀 &nbsp; I’m currently exploring DevOps Certifications, Deep Dive into Generative AI, LLMs, LangChain and trying to build up my [YouTube](https://www.youtube.com/@BuildWithLal) Channel.
 - 📫 &nbsp; Reach me out: lalzadamohmand@gmail.com.
 
 <br/>
