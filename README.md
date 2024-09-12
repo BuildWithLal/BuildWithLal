@@ -1,13 +1,4 @@
-### Hey there 👋, I'm [LaL!](https://github.com/BuildWithLal/)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/BuildWithLal)
-[![Resume Badge](https://img.shields.io/badge/-Resume-0e76a8?style=flat-square&logo=resume&logoColor=white)](https://docs.google.com/document/d/14snisx2xPcb_HiwRKHAlfYHpteRnFd-43m4JNBUHqEs/edit?usp=sharing)
-[![YouTube Badge](https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@BuildWithLal)
-[![Stackoverflow Badge](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=flat-square)](https://stackoverflow.com/users/1750147/lal)
-[![Medium Badge](https://img.shields.io/badge/-Medium-e4405f?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@BuildWithLal/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lalzadamohmand@gmail.com)
-
-<br/>
+### Hey there 👋, I'm [LaL!]
 A Software Engineer with 10 years of experience in software architecture, design & implementation for Web applications.
 
 Technical and management expertise in financial, trading systems, recruitment platforms and payment systems using Python, Javascript, AWS, Docker, Kubernetes, Generative AI, GCP and CI/CDs.
@@ -19,9 +10,7 @@ I'm an explorer of new tech, quick learner, and a problem-solver at heart. When 
 #### 📗 Personal Stuff
 
 - 🛠 &nbsp; I’m currently working with Python, AWS, CI/CDs, Google Cloud, Generative AI.
-- 🚀 &nbsp; I’m currently exploring DevOps Certifications, Deep Dive into Generative AI, LLMs, LangChain and trying to build up my [YouTube](https://www.youtube.com/@BuildWithLal) Channel.
-- 📫 &nbsp; Reach me out: lalzadamohmand@gmail.com.
-
+- 🚀 &nbsp; I’m currently exploring DevOps Certifications, Deep Dive into Generative AI, LLMs, LangChain and trying to build up my YouTube Channel.
 <br/>
 
 #### 👨🏻‍💻 Languages and Tools
@@ -57,14 +46,6 @@ I'm an explorer of new tech, quick learner, and a problem-solver at heart. When 
 
 <br/>
 
-#### ✍️ Blog Posts & Talks :
-
-- <a href="https://medium.com/@iamlal/scale-up-messaging-queue-with-python-celery-processes-vs-threads-402533be269e">Scale up Messaging Queue with Python Celery (Processes vs Threads)</a>
-- <a href="https://medium.com/@iamlal/python-celery-vs-python-rq-for-distributed-tasks-processing-20041c346e6">Python Celery vs Python RQ for distributed tasks processing</a>
-- <a href="https://medium.com/@iamlal/handling-i-o-bound-tasks-with-python-celery-using-processes-vs-threads-pool-126a4875600d">Handling I/O Bound Tasks with Python Celery using Processes vs Threads Pool</a>
-- <a href="https://medium.com/gopenai/openai-text-to-speech-bridging-language-barriers-with-versatile-voice-solutions-c1bb84a1679d">OpenAI Text-to-Speech 📢: Bridging Language Barriers with Versatile Voice Solutions</a>
-- <a href="https://www.youtube.com/playlist?list=PLJwCGAFWNNeFC39Ud-Jras6emjamtRqll">OpenAI Essentials | YouTube Video Series</a>
-- <a href="https://www.youtube.com/playlist?list=PLJwCGAFWNNeGb9FIJ6VAkNWAPnj_NajgD">GitLab in Docker | YouTube Video Series</a>
 
 <br/>
 
@@ -76,17 +57,6 @@ I'm an explorer of new tech, quick learner, and a problem-solver at heart. When 
 - VSCode
 - Postman, VirtualBox, Todoist
 - YouTube, Medium
-
-<br/>
-
-#### 📗 Contact Me
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/BuildWithLal)
-[![Resume Badge](https://img.shields.io/badge/-Resume-0e76a8?style=flat-square&logo=resume&logoColor=white)](https://docs.google.com/document/d/14snisx2xPcb_HiwRKHAlfYHpteRnFd-43m4JNBUHqEs/edit?usp=sharing)
-[![YouTube Badge](https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@BuildWithLal)
-[![Stackoverflow Badge](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=flat-square)](https://stackoverflow.com/users/1750147/lal)
-[![Medium Badge](https://img.shields.io/badge/-Medium-e4405f?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@BuildWithLal/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lalzadamohmand@gmail.com)
 
 <br/>
 
