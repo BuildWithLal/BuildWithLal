@@ -1,4 +1,4 @@
-### Hey there 👋, I'm [LaL!]
+### Hey there 👋, I'm LaL!
 A Software Engineer with 10 years of experience in software architecture, design & implementation for Web applications.
 
 Technical and management expertise in financial, trading systems, recruitment platforms and payment systems using Python, Javascript, AWS, Docker, Kubernetes, Generative AI, GCP and CI/CDs.
