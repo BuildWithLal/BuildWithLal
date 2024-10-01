@@ -10,7 +10,7 @@ I'm an explorer of new tech, quick learner, and a problem-solver at heart. When 
 #### 📗 Personal Stuff
 
 - 🛠 &nbsp; I’m currently working with Python, AWS, CI/CDs, Google Cloud, Generative AI.
-- 🚀 &nbsp; I’m currently exploring DevOps Certifications, Deep Dive into Generative AI, LLMs, LangChain and trying to build up my YouTube Channel.
+- 🚀 &nbsp; I’m currently Diving deep into Generative AI, LLMs, LangChain, Writing technical articles on Medium and building my YouTube Channel.
 <br/>
 
 #### 👨🏻‍💻 Languages and Tools
