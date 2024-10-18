@@ -53,9 +53,9 @@ I'm an explorer of new tech, quick learner, and a problem-solver at heart. When 
 - Dell Precision 5570 Workstation
 - Ubuntu LTS
 - Chrome
-- Ubuntu Terminal / VSCode Terminal
+- Ubuntu Terminal
 - VSCode
-- Postman, VirtualBox, Todoist
+- Postman, Todoist
 - YouTube, Medium
 
 <br/>
